@@ -1,4 +1,4 @@
-# 💧 Controle de Níveis de Água
+# Controle de Níveis de Água
 
 ## 📚 Atividade
 
@@ -69,6 +69,5 @@ controle-niveis-agua/
 
 ## 👨‍💻 Autor
 
-**Adriano Pinheiro**
 
 Projeto desenvolvido para atividade acadêmica de **Desenvolvimento de Sistemas I – ETEC**.
